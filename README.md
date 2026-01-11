@@ -138,7 +138,3 @@ A simple way to interpret the “value” of short selling is the **difference i
 ## Requirements
 
 - Microsoft Excel with the **Solver Add-in** enabled.
-
-## License
-
-For course/academic use. If you plan to publish or reuse beyond coursework, add an explicit license (e.g., MIT).
